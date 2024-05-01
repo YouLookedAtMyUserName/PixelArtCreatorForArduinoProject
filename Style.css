@@ -1,0 +1,598 @@
+#GRID{
+  display: grid;
+  grid-template-columns: 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw;
+  grid-template-rows: 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw;
+}
+
+#Cell00{
+    grid-row: 1/2;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell01{
+    grid-row: 2/3;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell02{
+    grid-row: 3/4;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell03{
+    grid-row: 4/5;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell04{
+    grid-row: 5/6;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell05{
+    grid-row: 6/7;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell06{
+    grid-row: 7/8;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell07{
+    grid-row: 8/9;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell08{
+    grid-row: 9/10;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell09{
+    grid-row: 10/11;
+    grid-column: 1/2;
+    background-color: rgb(0, 0, 0);
+}
+#Cell10{
+    grid-row: 1/2;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell11{
+    grid-row: 2/3;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell12{
+    grid-row: 3/4;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell13{
+    grid-row: 4/5;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell14{
+    grid-row: 5/6;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell15{
+    grid-row: 6/7;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell16{
+    grid-row: 7/8;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell17{
+    grid-row: 8/9;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell18{
+    grid-row: 9/10;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell19{
+    grid-row: 10/11;
+    grid-column: 2/3;
+    background-color: rgb(0, 0, 0);
+}
+#Cell20{
+    grid-row: 1/2;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell21{
+    grid-row: 2/3;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell22{
+    grid-row: 3/4;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell23{
+    grid-row: 4/5;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell24{
+    grid-row: 5/6;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell25{
+    grid-row: 6/7;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell26{
+    grid-row: 7/8;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell27{
+    grid-row: 8/9;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell28{
+    grid-row: 9/10;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell29{
+    grid-row: 10/11;
+    grid-column: 3/4;
+    background-color: rgb(0, 0, 0);
+}
+#Cell30{
+    grid-row: 1/2;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell31{
+    grid-row: 2/3;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell32{
+    grid-row: 3/4;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell33{
+    grid-row: 4/5;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell34{
+    grid-row: 5/6;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell35{
+    grid-row: 6/7;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell36{
+    grid-row: 7/8;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell37{
+    grid-row: 8/9;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell38{
+    grid-row: 9/10;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell39{
+    grid-row: 10/11;
+    grid-column: 4/5;
+    background-color: rgb(0, 0, 0);
+}
+#Cell40{
+    grid-row: 1/2;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell41{
+    grid-row: 2/3;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell42{
+    grid-row: 3/4;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell43{
+    grid-row: 4/5;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell44{
+    grid-row: 5/6;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell45{
+    grid-row: 6/7;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell46{
+    grid-row: 7/8;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell47{
+    grid-row: 8/9;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell48{
+    grid-row: 9/10;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell49{
+    grid-row: 10/11;
+    grid-column: 5/6;
+    background-color: rgb(0, 0, 0);
+}
+#Cell50{
+    grid-row: 1/2;
+    grid-column: 6/7;background-color: rgb(0, 0, 0);
+}
+#Cell51{
+    grid-row: 2/3;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell52{
+    grid-row: 3/4;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell53{
+    grid-row: 4/5;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell54{
+    grid-row: 5/6;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell55{
+    grid-row: 6/7;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell56{
+    grid-row: 7/8;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell57{
+    grid-row: 8/9;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell58{
+    grid-row: 9/10;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell59{
+    grid-row: 10/11;
+    grid-column: 6/7;
+    background-color: rgb(0, 0, 0);
+}
+#Cell60{
+    grid-row: 1/2;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell61{
+    grid-row: 2/3;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell62{
+    grid-row: 3/4;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell63{
+    grid-row: 4/5;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell64{
+    grid-row: 5/6;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell65{
+    grid-row: 6/7;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell66{
+    grid-row: 7/8;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell67{
+    grid-row: 8/9;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell68{
+    grid-row: 9/10;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell69{
+    grid-row: 10/11;
+    grid-column: 7/8;
+    background-color: rgb(0, 0, 0);
+}
+#Cell70{
+    grid-row: 1/2;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell71{
+    grid-row: 2/3;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell72{
+    grid-row: 3/4;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell73{
+    grid-row: 4/5;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell74{
+    grid-row: 5/6;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell75{
+    grid-row: 6/7;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell76{
+    grid-row: 7/8;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell77{
+    grid-row: 8/9;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell78{
+    grid-row: 9/10;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell79{
+    grid-row: 10/11;
+    grid-column: 8/9;
+    background-color: rgb(0, 0, 0);
+}
+#Cell80{
+    grid-row: 1/2;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell81{
+    grid-row: 2/3;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell82{
+    grid-row: 3/4;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell83{
+    grid-row: 4/5;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell84{
+    grid-row: 5/6;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell85{
+    grid-row: 6/7;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell86{
+    grid-row: 7/8;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell87{
+    grid-row: 8/9;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell88{
+    grid-row: 9/10;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell89{
+    grid-row: 10/11;
+    grid-column: 9/10;
+    background-color: rgb(0, 0, 0);
+}
+#Cell90{
+    grid-row: 1/2;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell91{
+    grid-row: 2/3;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell92{
+    grid-row: 3/4;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell93{
+    grid-row: 4/5;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell94{
+    grid-row: 5/6;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell95{
+    grid-row: 6/7;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell96{
+    grid-row: 7/8;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell97{
+    grid-row: 8/9;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell98{
+    grid-row: 9/10;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+#Cell99{
+    grid-row: 10/11;
+    grid-column: 10/11;
+    background-color: rgb(0, 0, 0);
+}
+
+#WTEXT{
+    grid-row: 11/12;
+    grid-column: 1/2;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#HTEXT{
+    grid-row: 11/12;
+    grid-column: 3/4;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#RTEXT{
+    grid-row: 11/12;
+    grid-column: 5/6;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#GTEXT{
+    grid-row: 11/12;
+    grid-column: 7/8;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#BTEXT{
+    grid-row: 11/12;
+    grid-column: 9/10;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#WTEXTBOX{
+    grid-row: 11/12;
+    grid-column: 2/3;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    margin: auto;
+    width: 8vw;
+}
+
+#HTEXTBOX{
+    grid-row: 11/12;
+    grid-column: 4/5;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    margin: auto;
+    width: 8vw;
+}
+
+#RTEXTBOX{
+    grid-row: 11/12;
+    grid-column: 6/7;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    margin: auto;
+    width: 8vw;
+}
+
+#GTEXTBOX{
+    grid-row: 11/12;
+    grid-column: 8/9;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;margin: auto;
+    width: 8vw;
+}
+
+#BTEXTBOX {
+    grid-row: 11/12;
+    grid-column: 10/11;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    margin: auto;
+    width: 8vw;
+}
+
+#APPLY {
+    grid-row: 12/13;
+    grid-column: 1/11;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#TABLEINATOR {
+    grid-row: 13/14;
+    grid-column: 1/11;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
