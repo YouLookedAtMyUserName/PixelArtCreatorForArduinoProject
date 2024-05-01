@@ -48,4 +48,6 @@ document.getElementById("TABLEINATOR").addEventListener("click", function() {
     LOG += GetRow(8) + ","
     LOG += GetRow(9) + "};"
     console.log(LOG)
+    navigator.clipboard.writeText(LOG)
+    alert("Copied")
 })
