@@ -4,6 +4,13 @@ function ChangePixelColor(W, H, R, G, B) {
     document.getElementById(CellName).style.backgroundColor = Color;
 }
 
+document.getElementById("Cell00").addEventListener("click", function() {
+    let R = document.getElementById("RTEXTBOX").value
+    let G = document.getElementById("GTEXTBOX").value
+    let B = document.getElementById("BTEXTBOX").value
+    ChangePixelColor(0, 0, R, G, B)
+})
+
 document.getElementById("APPLY").addEventListener("click", function() {
     let W = document.getElementById("WTEXTBOX").value
     let H = document.getElementById("HTEXTBOX").value
