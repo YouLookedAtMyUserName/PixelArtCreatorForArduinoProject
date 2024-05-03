@@ -1,3 +1,7 @@
+/* .Cell{
+    border: none;
+} */
+
 #GRID{
   display: grid;
   grid-template-columns: 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw 9vw;
